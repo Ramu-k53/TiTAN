@@ -1,0 +1,21 @@
+print("=" * 40)
+print("      Welcome to TiTAN")
+print("=" * 40)
+
+name = input("Enter your name: ")
+age = input("what is your age: ")
+profesion = input("what is your proffesion: ")
+project = input("what is your dream project: ")
+goal = input("What is today's goal? ")
+city = input("Which city do you live in?" )
+fav_program = input ("What is your favourite programming language?" )
+
+print("\nHello,", name)
+print("Age                    :", age)
+print("Profession             :", profesion)
+print("Project                :", project)
+print("Today's Goal           :", goal)
+print("what is your fav city  :", city)
+print("what is Fav program    :", fav_program)
+
+print("\nKeep learning. TiTAN is growing!")
